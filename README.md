@@ -1,2 +1,0 @@
-# potential-telegram
-README.md
